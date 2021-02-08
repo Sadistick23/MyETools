@@ -3,8 +3,18 @@
   padding: 0;
 }
 .header {
-
+padding: 10px;
+background: #D3D3D3;
 }
 .logo {
-  
+  margin: auto;
+  width: 700px;
+  align-items: center;
+
+}
+.logo_img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
 }
